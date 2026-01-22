@@ -1,0 +1,7 @@
+{
+  "name": "Smart-Agenda Trello Style",
+  "description": "Un'agenda intelligente in stile Kanban per gestire lavoro, casa, corsi e allenamento, integrata con Google Maps per ottimizzare gli spostamenti.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
